@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Product A",
+        "category": "Electronics",
+        "details": "This high-quality electronic device offers advanced features and a user-friendly interface for seamless operation."
+      },
+      {
+        "id": "2",
+        "name": "Product B",
+        "category": "Electronics",
+        "details": "Experience immersive entertainment with this state-of-the-art electronic device that delivers stunning visuals and crystal-clear sound."
+      },
+      {
+        "id": "3",
+        "name": "Product C",
+        "category": "Electronics",
+        "details": "Enhance your productivity with this cutting-edge electronic device that offers powerful performance and versatile functionality."
+      },
+      {
+        "id": "4",
+        "name": "Product D",
+        "category": "Home & Kitchen",
+        "details": "Upgrade your kitchen with this versatile and durable appliance that simplifies cooking and enhances your culinary experience."
+      },
+      {
+        "id": "5",
+        "name": "Product E",
+        "category": "Home & Kitchen",
+        "details": "Transform your living space with this stylish and functional home decor item that adds a touch of elegance."
+      },
+      {
+        "id": "6",
+        "name": "Product F",
+        "category": "Home & Kitchen",
+        "details": "Make your everyday tasks easier with this innovative home appliance that saves time and energy."
+      },
+      {
+        "id": "7",
+        "name": "Product G",
+        "category": "Fashion",
+        "details": "Stay fashionable with this trendy accessory that adds style and sophistication to any outfit."
+      },
+      {
+        "id": "8",
+        "name": "Product H",
+        "category": "Fashion",
+        "details": "Elevate your style with this chic fashion accessory that complements your outfits and makes a statement."
+      },
+      {
+        "id": "9",
+        "name": "Product I",
+        "category": "Fashion",
+        "details": "Complete your wardrobe with this versatile piece of clothing that can be dressed up or down for any occasion."
+      },
+      {
+        "id": "10",
+        "name": "Product J",
+        "category": "Sports & Outdoors",
+        "details": "Stay active and explore the outdoors with this high-performance gear that ensures comfort and durability."
+      },
+      {
+        "id": "11",
+        "name": "Product K",
+        "category": "Sports & Outdoors",
+        "details": "Achieve your fitness goals with this high-quality exercise equipment that provides a challenging and effective workout."
+      },
+      {
+        "id": "12",
+        "name": "Product L",
+        "category": "Sports & Outdoors",
+        "details": "Experience adventure with this durable and reliable outdoor gear that is designed for all your outdoor activities."
+      },
+      {
+        "id": "13",
+        "name": "Product M",
+        "category": "Beauty & Personal Care",
+        "details": "Indulge in self-care with this luxurious beauty product that nourishes your skin and leaves you feeling rejuvenated."
+      },
+      {
+        "id": "14",
+        "name": "Product N",
+        "category": "Beauty & Personal Care",
+        "details": "Enhance your natural beauty with this high-quality cosmetic product that provides a flawless finish."
+      },
+      {
+        "id": "15",
+        "name": "Product O",
+        "category": "Beauty & Personal Care",
+        "details": "Take care of your hair with this premium hair care product that leaves your locks healthy and vibrant."
+      }
+    ]
+  }
+  
